@@ -16,16 +16,12 @@ Make a file that prints:
 
 and then also prints:
 
-*****
-****
-***
-**
-*
+![image](https://user-images.githubusercontent.com/36263575/66679993-72018680-ec67-11e9-9f6c-582c8e386ec0.png)
 
 Call the file `TreesAndStars.cpp`.
 
 Again, compile the code by running `g++ TreesAndStars.cpp` from the command line within your folder.
 
-Run the compiled code using `a.out`.
+Run the compiled code using `./a.out`.
 
 *Note: This could be done with either a for loop or a while loop*
