@@ -9,7 +9,7 @@ Compile the code into source code (code the computer can read) using `g++ HelloW
 
 Run the compiled code using `./a.out`.
 
-## Printing trees and stars
+## 2. Printing trees and stars
 Make a file that prints:
 
 ![image](https://user-images.githubusercontent.com/36263575/66679951-5e562000-ec67-11e9-96c6-18e2000ad81b.png)
