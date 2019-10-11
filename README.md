@@ -12,12 +12,7 @@ Run the compiled code using `./a.out`.
 ## Printing trees and stars
 Make a file that prints:
 
-     *
-    /|\
-   / | \
-  /  |  \
- /   |   \
-/____|____\
+![image](https://user-images.githubusercontent.com/36263575/66679951-5e562000-ec67-11e9-96c6-18e2000ad81b.png)
 
 and then also prints:
 
