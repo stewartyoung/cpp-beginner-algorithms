@@ -24,4 +24,4 @@ Again, compile the code by running `g++ TreesAndStars.cpp` from the command line
 
 Run the compiled code using `./a.out`.
 
-*Note: This could be done with either a for loop or a while loop*
+*Note: This could be done with either a for loop or a while loop, or using no loops at all. Do what you're comfortable with to get started.*
